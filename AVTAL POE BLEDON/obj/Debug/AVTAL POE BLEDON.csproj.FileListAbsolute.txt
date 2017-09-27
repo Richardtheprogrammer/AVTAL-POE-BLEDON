@@ -1,0 +1,8 @@
+c:\users\richard\documents\visual studio 2017\Projects\AVTAL POE BLEDON\AVTAL POE BLEDON\bin\Debug\AVTAL POE BLEDON.exe.config
+c:\users\richard\documents\visual studio 2017\Projects\AVTAL POE BLEDON\AVTAL POE BLEDON\bin\Debug\AVTAL POE BLEDON.exe
+c:\users\richard\documents\visual studio 2017\Projects\AVTAL POE BLEDON\AVTAL POE BLEDON\bin\Debug\AVTAL POE BLEDON.pdb
+c:\users\richard\documents\visual studio 2017\Projects\AVTAL POE BLEDON\AVTAL POE BLEDON\obj\Debug\AVTAL POE BLEDON.csprojResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2017\Projects\AVTAL POE BLEDON\AVTAL POE BLEDON\obj\Debug\AVTAL POE BLEDON.exe
+c:\users\richard\documents\visual studio 2017\Projects\AVTAL POE BLEDON\AVTAL POE BLEDON\obj\Debug\AVTAL POE BLEDON.pdb
+c:\users\richard\documents\visual studio 2017\Projects\AVTAL POE BLEDON\AVTAL POE BLEDON\obj\Debug\AVTAL_POE_BLEDON.Properties.Resources.resources
+c:\users\richard\documents\visual studio 2017\Projects\AVTAL POE BLEDON\AVTAL POE BLEDON\obj\Debug\AVTAL POE BLEDON.csproj.GenerateResource.Cache
